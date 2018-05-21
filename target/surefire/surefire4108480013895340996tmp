@@ -1,0 +1,32 @@
+#surefire
+#Mon May 21 10:33:09 IST 2018
+testClassesDirectory=D\:\\BDD Documents\\BDD Using Cucumber Archetype\\hellocucumber\\target\\test-classes
+classPathUrl.4=C\:\\Users\\zaheer.abbas\\.m2\\repository\\info\\cukes\\cucumber-html\\0.2.6\\cucumber-html-0.2.6.jar
+classPathUrl.3=C\:\\Users\\zaheer.abbas\\.m2\\repository\\io\\cucumber\\cucumber-core\\2.3.1\\cucumber-core-2.3.1.jar
+classPathUrl.2=C\:\\Users\\zaheer.abbas\\.m2\\repository\\io\\cucumber\\cucumber-java\\2.3.1\\cucumber-java-2.3.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=D\:\\BDD Documents\\BDD Using Cucumber Archetype\\hellocucumber\\target\\classes
+reportsDirectory=D\:\\BDD Documents\\BDD Using Cucumber Archetype\\hellocucumber\\target\\surefire-reports
+classPathUrl.0=D\:\\BDD Documents\\BDD Using Cucumber Archetype\\hellocucumber\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=D\:\\BDD Documents\\BDD Using Cucumber Archetype\\hellocucumber\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\zaheer.abbas\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+surefireClassPathUrl.0=C\:\\Users\\zaheer.abbas\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.12.4\\surefire-junit4-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=hellocucumber.RunCucumberTest
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+runStatisticsFile=D\:\\BDD Documents\\BDD Using Cucumber Archetype\\hellocucumber\\.surefire-44DB400ABC523E18504356A1D02A9C8D8E857057
+includes0=**/Test*.java
+classPathUrl.10=C\:\\Users\\zaheer.abbas\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
+classPathUrl.9=C\:\\Users\\zaheer.abbas\\.m2\\repository\\junit\\junit\\4.12\\junit-4.12.jar
+classPathUrl.8=C\:\\Users\\zaheer.abbas\\.m2\\repository\\io\\cucumber\\cucumber-junit\\2.3.1\\cucumber-junit-2.3.1.jar
+classPathUrl.7=C\:\\Users\\zaheer.abbas\\.m2\\repository\\io\\cucumber\\tag-expressions\\1.1.1\\tag-expressions-1.1.1.jar
+childDelegation=false
+classPathUrl.6=C\:\\Users\\zaheer.abbas\\.m2\\repository\\io\\cucumber\\gherkin\\5.0.0\\gherkin-5.0.0.jar
+classPathUrl.5=C\:\\Users\\zaheer.abbas\\.m2\\repository\\io\\cucumber\\cucumber-jvm-deps\\1.0.6\\cucumber-jvm-deps-1.0.6.jar
